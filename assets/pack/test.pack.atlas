@@ -1,0 +1,81 @@
+
+test.pack.png
+size: 256, 256
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+head
+  rotate: false
+  xy: 2, 74
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+reimu
+  rotate: false
+  xy: 154, 160
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+rock
+  rotate: false
+  xy: 2, 2
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+
+test.pack2.png
+size: 512, 512
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+bg/cloud1
+  rotate: false
+  xy: 2, 95
+  size: 343, 269
+  orig: 343, 269
+  offset: 0, 0
+  index: -1
+bg/cloud2
+  rotate: false
+  xy: 347, 284
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+bg/flower
+  rotate: false
+  xy: 2, 2
+  size: 115, 91
+  orig: 115, 91
+  offset: 0, 0
+  index: -1
+bg/tree
+  rotate: false
+  xy: 429, 311
+  size: 81, 53
+  orig: 81, 53
+  offset: 0, 0
+  index: -1
+
+test.pack3.png
+size: 32, 128
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+items/feather
+  rotate: false
+  xy: 2, 28
+  size: 27, 40
+  orig: 27, 40
+  offset: 0, 0
+  index: -1
+items/gold
+  rotate: false
+  xy: 2, 2
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
